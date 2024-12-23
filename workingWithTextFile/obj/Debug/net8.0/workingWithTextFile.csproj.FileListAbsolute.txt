@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.AssemblyInfo.cs
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\bin\Debug\net8.0\workingWithTextFile.exe
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\bin\Debug\net8.0\workingWithTextFile.deps.json
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\bin\Debug\net8.0\workingWithTextFile.runtimeconfig.json
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\bin\Debug\net8.0\workingWithTextFile.dll
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\bin\Debug\net8.0\workingWithTextFile.pdb
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.dll
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\refint\workingWithTextFile.dll
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.pdb
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\workingWithTextFile.genruntimeconfig.cache
+C:\Users\Admin\source\repos\workingWithTextFile\workingWithTextFile\obj\Debug\net8.0\ref\workingWithTextFile.dll
